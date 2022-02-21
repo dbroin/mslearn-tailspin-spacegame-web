@@ -1,3 +1,5 @@
+# Does a comment in a YAML build template cause an error?
+
 parameters:
   buildConfiguration: 'Release'
 
